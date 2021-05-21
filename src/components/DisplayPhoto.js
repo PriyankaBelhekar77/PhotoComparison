@@ -26,6 +26,7 @@ const DisplayPhoto = ({ photoDetails }) => {
               setCompareData(item => [...item, photo]);
             }}>Compare</button>
               : <button className='btn btn-dark' style={{ background: '#B92B28' }} onClick={(e) => {
+                photo.compare = false;
                 setDeleteId(id);
               }}>Remove</button>
           }
