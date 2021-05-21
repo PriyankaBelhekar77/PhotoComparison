@@ -1,5 +1,7 @@
 # PhotoComparison
 
+https://heuristic-wozniak-22c31e.netlify.app/
+
 A single page application wherein list of photos gets displayed in a grid along with a COMPARE button on  each of the photo item
 
 When a user clicks on the COMPARE button over the photo, that particular photo should be added to the comparison table below the list, and also the COMPARE button should turn to REMOVE button.
