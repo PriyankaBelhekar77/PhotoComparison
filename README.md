@@ -6,4 +6,4 @@ When a user clicks on the COMPARE button over the photo, that particular photo s
 
 Same way, user can add as many photos as She/he wants in the comparison table.
 
-The comparison table shall show photo title , photo URL and photo thumbnail URL and also display the photoWhen the user clicks on REMOVE button over the photo on the photo listing page, that photo should be removed from the comparison table
+The comparison table shall show photo title , photo URL and photo thumbnail URL and also display the photoWhen the user clicks on REMOVE button over the photo on the photo listing page, that photo should be removed from the comparison table.
