@@ -24,7 +24,6 @@ const DisplayContent = () => {
   }, []);
 
   useEffect(() => {
-    photoData && setPhotoData(photoData.filter(val => val.id !== deleteId));
     compareData && setCompareData(compareData.filter(val => val.id !== deleteId));
   }, [deleteId]);
 
